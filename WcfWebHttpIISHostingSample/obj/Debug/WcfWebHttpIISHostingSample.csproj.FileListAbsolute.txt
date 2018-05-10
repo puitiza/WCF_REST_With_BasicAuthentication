@@ -1,0 +1,5 @@
+c:\users\apuitiza.luckysac\documents\visual studio 2012\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\obj\Debug\WcfWebHttpIISHostingSample.csprojResolveAssemblyReference.cache
+C:\Users\apuitiza.LUCKYSAC\Documents\Visual Studio 2012\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\bin\WcfWebHttpIISHostingSample.dll
+C:\Users\apuitiza.LUCKYSAC\Documents\Visual Studio 2012\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\bin\WcfWebHttpIISHostingSample.pdb
+C:\Users\apuitiza.LUCKYSAC\Documents\Visual Studio 2012\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\obj\Debug\WcfWebHttpIISHostingSample.dll
+C:\Users\apuitiza.LUCKYSAC\Documents\Visual Studio 2012\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\obj\Debug\WcfWebHttpIISHostingSample.pdb
