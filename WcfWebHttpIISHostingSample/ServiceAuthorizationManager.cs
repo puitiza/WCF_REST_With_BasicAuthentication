@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Runtime.Serialization;
-using System.ServiceModel;
-using System.ServiceModel.Web;
-using System.Net;
-
-namespace WcfWebHttpIISHostingSample
+﻿namespace WCF_REST_BasicAuthentication
 {
-    
+    using System;
+    using System.Net;
+    using System.ServiceModel;
+    using System.ServiceModel.Web;
+
     public class RestAuthorizationManager : ServiceAuthorizationManager
     {
         /// <summary>
