@@ -3,3 +3,10 @@ C:\Users\apuitiza.LUCKYSAC\Documents\Visual Studio 2012\Projects\WcfWebHttpIISHo
 C:\Users\apuitiza.LUCKYSAC\Documents\Visual Studio 2012\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\bin\WcfWebHttpIISHostingSample.pdb
 C:\Users\apuitiza.LUCKYSAC\Documents\Visual Studio 2012\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\obj\Debug\WcfWebHttpIISHostingSample.dll
 C:\Users\apuitiza.LUCKYSAC\Documents\Visual Studio 2012\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\obj\Debug\WcfWebHttpIISHostingSample.pdb
+C:\Users\Administrador\Documents\Visual Studio 2017\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\bin\WcfWebHttpIISHostingSample.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2017\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\bin\WcfWebHttpIISHostingSample.dll
+C:\Users\Administrador\Documents\Visual Studio 2017\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\bin\WcfWebHttpIISHostingSample.pdb
+C:\Users\Administrador\Documents\Visual Studio 2017\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\obj\Debug\WcfWebHttpIISHostingSample.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2017\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\obj\Debug\WcfWebHttpIISHostingSample.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\Visual Studio 2017\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\obj\Debug\WcfWebHttpIISHostingSample.dll
+C:\Users\Administrador\Documents\Visual Studio 2017\Projects\WcfWebHttpIISHostingSample\WcfWebHttpIISHostingSample\obj\Debug\WcfWebHttpIISHostingSample.pdb
